@@ -29,7 +29,7 @@ We have below components runs  to fulfill the inner working of Typescript
 4. **checker :**  this is the important components which does the syntax check , datatype check and gives the developers  the warning  to reduce any mistakes 
 5. **Emitter :**  this component at the end emits or actually genenrated .js file which is actually runs behind the scene whenever we run the typescript file . it also trimmed down the TS code which developer written 
 
-### TypeScript setup in a project
+###  setup TypeScript in a project
 
 ```bash
 npm init ( to setup the project , create the package.json) 
