@@ -37,3 +37,16 @@ npm i typescript -D ( install ts , as dev dependencies )
 npx tsc --init ( to create tsconfig.json file ) 
 
 ```
+
+
+#### inference concept 
+ - when ts knows the data type of the variable on its own , usually every default data type in js , typescript can understand 
+
+
+ #### annotations concept 
+ - whern devs. have to annotate or explicitly tell what is the datatype 
+  
+
+> these are different style for declarations 
+>
+  
