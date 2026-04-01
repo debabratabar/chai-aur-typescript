@@ -2,6 +2,10 @@
  * diff b/w type and interface 
  * 1. we usually use interface in class implements , as a class do implement only object type or 
  * intersection of object types , can't implement types like this ( line no. 24 )
+ * 
+ * type chai = { name : string }
+ * interface chai { name : string } * 
+ * 
  */
 
 // type & interface working properly no issue
